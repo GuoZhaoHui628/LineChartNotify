@@ -1,0 +1,534 @@
+[
+        {
+            "saveTime": "2017-10-28 06:00:00.0",
+            "attribValue": 0
+        },
+        {
+            "saveTime": "2017-10-28 06:05:00.0",
+            "attribValue": 0
+        },
+        {
+            "saveTime": "2017-10-28 06:10:00.0",
+            "attribValue": 0
+        },
+        {
+            "saveTime": "2017-10-28 06:15:00.0",
+            "attribValue": 0
+        },
+        {
+            "saveTime": "2017-10-28 06:20:00.0",
+            "attribValue": 0
+        },
+        {
+            "saveTime": "2017-10-28 06:25:00.0",
+            "attribValue": 0
+        },
+        {
+            "saveTime": "2017-10-28 06:30:00.0",
+            "attribValue": 0
+        },
+        {
+            "saveTime": "2017-10-28 06:35:00.0",
+            "attribValue": 55
+        },
+        {
+            "saveTime": "2017-10-28 06:40:00.0",
+            "attribValue": 498
+        },
+        {
+            "saveTime": "2017-10-28 06:45:00.0",
+            "attribValue": 1055
+        },
+        {
+            "saveTime": "2017-10-28 06:50:00.0",
+            "attribValue": 1609
+        },
+        {
+            "saveTime": "2017-10-28 06:55:00.0",
+            "attribValue": 2250
+        },
+        {
+            "saveTime": "2017-10-28 07:00:00.0",
+            "attribValue": 3592
+        },
+        {
+            "saveTime": "2017-10-28 07:05:00.0",
+            "attribValue": 4137
+        },
+        {
+            "saveTime": "2017-10-28 07:10:00.0",
+            "attribValue": 6009
+        },
+        {
+            "saveTime": "2017-10-28 07:15:00.0",
+            "attribValue": 7751
+        },
+        {
+            "saveTime": "2017-10-28 07:20:00.0",
+            "attribValue": 9350
+        },
+        {
+            "saveTime": "2017-10-28 07:25:00.0",
+            "attribValue": 11473
+        },
+        {
+            "saveTime": "2017-10-28 07:30:00.0",
+            "attribValue": 13646
+        },
+        {
+            "saveTime": "2017-10-28 07:35:00.0",
+            "attribValue": 17081
+        },
+        {
+            "saveTime": "2017-10-28 07:40:00.0",
+            "attribValue": 19356
+        },
+        {
+            "saveTime": "2017-10-28 07:45:00.0",
+            "attribValue": 22411
+        },
+        {
+            "saveTime": "2017-10-28 07:50:00.0",
+            "attribValue": 24676
+        },
+        {
+            "saveTime": "2017-10-28 07:55:00.0",
+            "attribValue": 29377
+        },
+        {
+            "saveTime": "2017-10-28 08:00:00.0",
+            "attribValue": 32412
+        },
+        {
+            "saveTime": "2017-10-28 08:05:00.0",
+            "attribValue": 36801
+        },
+        {
+            "saveTime": "2017-10-28 08:10:00.0",
+            "attribValue": 40610
+        },
+        {
+            "saveTime": "2017-10-28 08:15:00.0",
+            "attribValue": 43864
+        },
+        {
+            "saveTime": "2017-10-28 08:20:00.0",
+            "attribValue": 47771
+        },
+        {
+            "saveTime": "2017-10-28 08:25:00.0",
+            "attribValue": 51071
+        },
+        {
+            "saveTime": "2017-10-28 08:30:00.0",
+            "attribValue": 55321
+        },
+        {
+            "saveTime": "2017-10-28 08:35:00.0",
+            "attribValue": 58090
+        },
+        {
+            "saveTime": "2017-10-28 08:40:00.0",
+            "attribValue": 62146
+        },
+        {
+            "saveTime": "2017-10-28 08:45:00.0",
+            "attribValue": 65416
+        },
+        {
+            "saveTime": "2017-10-28 08:50:00.0",
+            "attribValue": 69004
+        },
+        {
+            "saveTime": "2017-10-28 08:55:00.0",
+            "attribValue": 72331
+        },
+        {
+            "saveTime": "2017-10-28 09:00:00.0",
+            "attribValue": 75354
+        },
+        {
+            "saveTime": "2017-10-28 09:05:00.0",
+            "attribValue": 71456
+        },
+        {
+            "saveTime": "2017-10-28 09:10:00.0",
+            "attribValue": 74276
+        },
+        {
+            "saveTime": "2017-10-28 09:15:00.0",
+            "attribValue": 76952
+        },
+        {
+            "saveTime": "2017-10-28 09:20:00.0",
+            "attribValue": 79207
+        },
+        {
+            "saveTime": "2017-10-28 09:25:00.0",
+            "attribValue": 77645
+        },
+        {
+            "saveTime": "2017-10-28 09:30:00.0",
+            "attribValue": 83788
+        },
+        {
+            "saveTime": "2017-10-28 09:35:00.0",
+            "attribValue": 85841
+        },
+        {
+            "saveTime": "2017-10-28 09:40:00.0",
+            "attribValue": 82203
+        },
+        {
+            "saveTime": "2017-10-28 09:45:00.0",
+            "attribValue": 84102
+        },
+        {
+            "saveTime": "2017-10-28 09:50:00.0",
+            "attribValue": 85707
+        },
+        {
+            "saveTime": "2017-10-28 09:55:00.0",
+            "attribValue": 87900
+        },
+        {
+            "saveTime": "2017-10-28 10:00:00.0",
+            "attribValue": 82146
+        },
+        {
+            "saveTime": "2017-10-28 10:05:00.0",
+            "attribValue": 85532
+        },
+        {
+            "saveTime": "2017-10-28 10:10:00.0",
+            "attribValue": 93230
+        },
+        {
+            "saveTime": "2017-10-28 10:15:00.0",
+            "attribValue": 94066
+        },
+        {
+            "saveTime": "2017-10-28 10:20:00.0",
+            "attribValue": 66450
+        },
+        {
+            "saveTime": "2017-10-28 10:25:00.0",
+            "attribValue": 97877
+        },
+        {
+            "saveTime": "2017-10-28 10:30:00.0",
+            "attribValue": 98828
+        },
+        {
+            "saveTime": "2017-10-28 10:35:00.0",
+            "attribValue": 117132
+        },
+        {
+            "saveTime": "2017-10-28 10:40:00.0",
+            "attribValue": 99788
+        },
+        {
+            "saveTime": "2017-10-28 10:45:00.0",
+            "attribValue": 121001
+        },
+        {
+            "saveTime": "2017-10-28 10:50:00.0",
+            "attribValue": 113459
+        },
+        {
+            "saveTime": "2017-10-28 10:55:00.0",
+            "attribValue": 122486
+        },
+        {
+            "saveTime": "2017-10-28 11:00:00.0",
+            "attribValue": 123430
+        },
+        {
+            "saveTime": "2017-10-28 11:05:00.0",
+            "attribValue": 124882
+        },
+        {
+            "saveTime": "2017-10-28 11:10:00.0",
+            "attribValue": 123553
+        },
+        {
+            "saveTime": "2017-10-28 11:15:00.0",
+            "attribValue": 125603
+        },
+        {
+            "saveTime": "2017-10-28 11:20:00.0",
+            "attribValue": 95354
+        },
+        {
+            "saveTime": "2017-10-28 11:25:00.0",
+            "attribValue": 127300
+        },
+        {
+            "saveTime": "2017-10-28 11:30:00.0",
+            "attribValue": 116152
+        },
+        {
+            "saveTime": "2017-10-28 11:35:00.0",
+            "attribValue": 127590
+        },
+        {
+            "saveTime": "2017-10-28 11:40:00.0",
+            "attribValue": 128604
+        },
+        {
+            "saveTime": "2017-10-28 11:45:00.0",
+            "attribValue": 127559
+        },
+        {
+            "saveTime": "2017-10-28 11:50:00.0",
+            "attribValue": 127176
+        },
+        {
+            "saveTime": "2017-10-28 11:55:00.0",
+            "attribValue": 127867
+        },
+        {
+            "saveTime": "2017-10-28 12:00:00.0",
+            "attribValue": 127329
+        },
+        {
+            "saveTime": "2017-10-28 12:05:00.0",
+            "attribValue": 126148
+        },
+        {
+            "saveTime": "2017-10-28 12:10:00.0",
+            "attribValue": 125267
+        },
+        {
+            "saveTime": "2017-10-28 12:15:00.0",
+            "attribValue": 126492
+        },
+        {
+            "saveTime": "2017-10-28 12:20:00.0",
+            "attribValue": 127127
+        },
+        {
+            "saveTime": "2017-10-28 12:25:00.0",
+            "attribValue": 128455
+        },
+        {
+            "saveTime": "2017-10-28 12:30:00.0",
+            "attribValue": 127073
+        },
+        {
+            "saveTime": "2017-10-28 12:35:00.0",
+            "attribValue": 127770
+        },
+        {
+            "saveTime": "2017-10-28 12:40:00.0",
+            "attribValue": 116556
+        },
+        {
+            "saveTime": "2017-10-28 12:45:00.0",
+            "attribValue": 127041
+        },
+        {
+            "saveTime": "2017-10-28 12:50:00.0",
+            "attribValue": 126023
+        },
+        {
+            "saveTime": "2017-10-28 12:55:00.0",
+            "attribValue": 117142
+        },
+        {
+            "saveTime": "2017-10-28 13:00:00.0",
+            "attribValue": 124044
+        },
+        {
+            "saveTime": "2017-10-28 13:05:00.0",
+            "attribValue": 122728
+        },
+        {
+            "saveTime": "2017-10-28 13:10:00.0",
+            "attribValue": 121595
+        },
+        {
+            "saveTime": "2017-10-28 13:15:00.0",
+            "attribValue": 120736
+        },
+        {
+            "saveTime": "2017-10-28 13:20:00.0",
+            "attribValue": 120020
+        },
+        {
+            "saveTime": "2017-10-28 13:25:00.0",
+            "attribValue": 109786
+        },
+        {
+            "saveTime": "2017-10-28 13:30:00.0",
+            "attribValue": 117798
+        },
+        {
+            "saveTime": "2017-10-28 13:35:00.0",
+            "attribValue": 116977
+        },
+        {
+            "saveTime": "2017-10-28 13:40:00.0",
+            "attribValue": 115691
+        },
+        {
+            "saveTime": "2017-10-28 13:45:00.0",
+            "attribValue": 114694
+        },
+        {
+            "saveTime": "2017-10-28 13:50:00.0",
+            "attribValue": 112050
+        },
+        {
+            "saveTime": "2017-10-28 13:55:00.0",
+            "attribValue": 110493
+        },
+        {
+            "saveTime": "2017-10-28 14:00:00.0",
+            "attribValue": 109504
+        },
+        {
+            "saveTime": "2017-10-28 14:05:00.0",
+            "attribValue": 108355
+        },
+        {
+            "saveTime": "2017-10-28 14:10:00.0",
+            "attribValue": 106635
+        },
+        {
+            "saveTime": "2017-10-28 14:15:00.0",
+            "attribValue": 96714
+        },
+        {
+            "saveTime": "2017-10-28 14:20:00.0",
+            "attribValue": 102557
+        },
+        {
+            "saveTime": "2017-10-28 14:25:00.0",
+            "attribValue": 101228
+        },
+        {
+            "saveTime": "2017-10-28 14:30:00.0",
+            "attribValue": 98478
+        },
+        {
+            "saveTime": "2017-10-28 14:35:00.0",
+            "attribValue": 96830
+        },
+        {
+            "saveTime": "2017-10-28 14:40:00.0",
+            "attribValue": 94662
+        },
+        {
+            "saveTime": "2017-10-28 14:45:00.0",
+            "attribValue": 68293
+        },
+        {
+            "saveTime": "2017-10-28 14:50:00.0",
+            "attribValue": 90622
+        },
+        {
+            "saveTime": "2017-10-28 14:55:00.0",
+            "attribValue": 81085
+        },
+        {
+            "saveTime": "2017-10-28 15:00:00.0",
+            "attribValue": 85565
+        },
+        {
+            "saveTime": "2017-10-28 15:05:00.0",
+            "attribValue": 61329
+        },
+        {
+            "saveTime": "2017-10-28 15:10:00.0",
+            "attribValue": 79621
+        },
+        {
+            "saveTime": "2017-10-28 15:15:00.0",
+            "attribValue": 77200
+        },
+        {
+            "saveTime": "2017-10-28 15:20:00.0",
+            "attribValue": 74272
+        },
+        {
+            "saveTime": "2017-10-28 15:25:00.0",
+            "attribValue": 71893
+        },
+        {
+            "saveTime": "2017-10-28 15:30:00.0",
+            "attribValue": 69094
+        },
+        {
+            "saveTime": "2017-10-28 15:35:00.0",
+            "attribValue": 65541
+        },
+        {
+            "saveTime": "2017-10-28 15:40:00.0",
+            "attribValue": 58201
+        },
+        {
+            "saveTime": "2017-10-28 15:45:00.0",
+            "attribValue": 59557
+        },
+        {
+            "saveTime": "2017-10-28 15:50:00.0",
+            "attribValue": 55480
+        },
+        {
+            "saveTime": "2017-10-28 15:55:00.0",
+            "attribValue": 51707
+        },
+        {
+            "saveTime": "2017-10-28 16:00:00.0",
+            "attribValue": 49770
+        },
+        {
+            "saveTime": "2017-10-28 16:05:00.0",
+            "attribValue": 43452
+        },
+        {
+            "saveTime": "2017-10-28 16:10:00.0",
+            "attribValue": 39478
+        },
+        {
+            "saveTime": "2017-10-28 16:15:00.0",
+            "attribValue": 36612
+        },
+        {
+            "saveTime": "2017-10-28 16:20:00.0",
+            "attribValue": 31224
+        },
+        {
+            "saveTime": "2017-10-28 16:25:00.0",
+            "attribValue": 31277
+        },
+        {
+            "saveTime": "2017-10-28 16:30:00.0",
+            "attribValue": 25501
+        },
+        {
+            "saveTime": "2017-10-28 16:35:00.0",
+            "attribValue": 26350
+        },
+        {
+            "saveTime": "2017-10-28 16:40:00.0",
+            "attribValue": 23872
+        },
+        {
+            "saveTime": "2017-10-28 16:45:00.0",
+            "attribValue": 18940
+        },
+        {
+            "saveTime": "2017-10-28 16:50:00.0",
+            "attribValue": 18171
+        },
+        {
+            "saveTime": "2017-10-28 16:55:00.0",
+            "attribValue": 15681
+        },
+        {
+            "saveTime": "2017-10-28 17:00:00.0",
+            "attribValue": 13239
+        }
+    ]
